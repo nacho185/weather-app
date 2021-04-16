@@ -31,6 +31,23 @@ body {
   animation-duration: 2s;
   animation-fill-mode: forwards;
 }
+#portfolio {
+  background-color: #07689f;
+  border: none;
+  color: #fff;
+  padding: 7.5px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+#portfolio a {
+  text-decoration: none;
+  color: #fff;
+}
 /*end global*/
 /*animation*/
 @keyframes bodyMove {
