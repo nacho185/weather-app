@@ -184,4 +184,8 @@ body {
   .temperature-at-moment {
     font-size: 60px;
   }
+  #portfolio {
+    position: relative;
+    top: -0.5px;
+  }
 }
