@@ -170,6 +170,11 @@ body {
     position: relative;
     bottom: 20px;
   }
+  #portfolio {
+    position: absolute;
+    top: 35px;
+    right: 0;
+  }
 
   #name-for-city {
     font-size: 3rem;
