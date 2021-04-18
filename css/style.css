@@ -25,6 +25,7 @@ body {
   animation-name: bodyMove;
   animation-duration: 2s;
   animation-fill-mode: forwards;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
 }
 .container-for-search-and-header {
   animation-name: headerMoves;
@@ -161,7 +162,6 @@ body {
   text-shadow: 3px 6px rgba(50, 50, 70, 0.5);
   text-align: center;
   box-shadow: 3px 6px rgba(0, 0, 0, 0.2);
-  color: black;
 }
 /*end temperature-at-moment*/
 @media (max-width: 425px) {
