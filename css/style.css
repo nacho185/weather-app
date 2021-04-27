@@ -16,6 +16,7 @@ body {
   margin: 0 auto;
   width: 70%;
   text-align: center;
+  margin-top: 60px;
 }
 .keep-in-order {
   border: 1px solid grey;
@@ -170,11 +171,6 @@ body {
     position: relative;
     bottom: 20px;
   }
-  #portfolio {
-    position: absolute;
-    top: 35px;
-    right: 0;
-  }
 
   #name-for-city {
     font-size: 3rem;
@@ -183,9 +179,5 @@ body {
 @media (max-width: 320px) {
   .temperature-at-moment {
     font-size: 60px;
-  }
-  #portfolio {
-    position: relative;
-    top: -0.5px;
   }
 }
